@@ -1,3 +1,4 @@
 Name: Saritha
 Surname: Cheruku
 Qualification : B.Tech
+Designation : DataAnalyst
